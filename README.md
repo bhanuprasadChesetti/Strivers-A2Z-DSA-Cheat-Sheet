@@ -5,7 +5,7 @@
 
 This repository contains solutions for the problems, of Strivers-A2Z-DSA-Cheat-Sheet created by **Raj Vikramaditya(Striver Bhaiya)** available at [takeUforward](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
-![Alt text](images/youtube_10x10.png) [What is Striver's DSA Cheat Sheet?](https://youtu.be/rHn9af16O_E)
+![YouTube Link:](images/youtube/youtube_15x15.png) [What is Striver's DSA Cheat Sheet?](https://youtu.be/rHn9af16O_E)
 
 
 #### Problem Categories
