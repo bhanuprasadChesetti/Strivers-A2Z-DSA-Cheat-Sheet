@@ -11,6 +11,7 @@ This repository contains solutions for the problems, of Strivers-A2Z-DSA-Cheat-S
 #### Problem Categories
 
 This sheet covers the following problem category types:
+- Patterns
 - Arrays
 - Strings
 - Linked Lists
